@@ -4,7 +4,7 @@ Description: This program uses the setSegments() function to scroll
              text characters across the 4 digit display.
              The hex values for these characters are in a char array.
              You must add 3 HEX values to complete the message:
-                   Intru  where dEr are missing.          
+                   IntrudEr  where dEr are missing.          
 */
 
 //INCLUDE SECTION
